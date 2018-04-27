@@ -1,0 +1,11 @@
+C:\Users\alexandra.damaschin\Desktop\IdentityServer\ClientConsoleApp\bin\Debug\netcoreapp2.0\ClientConsoleApp.deps.json
+C:\Users\alexandra.damaschin\Desktop\IdentityServer\ClientConsoleApp\bin\Debug\netcoreapp2.0\ClientConsoleApp.runtimeconfig.json
+C:\Users\alexandra.damaschin\Desktop\IdentityServer\ClientConsoleApp\bin\Debug\netcoreapp2.0\ClientConsoleApp.runtimeconfig.dev.json
+C:\Users\alexandra.damaschin\Desktop\IdentityServer\ClientConsoleApp\bin\Debug\netcoreapp2.0\ClientConsoleApp.dll
+C:\Users\alexandra.damaschin\Desktop\IdentityServer\ClientConsoleApp\obj\Debug\netcoreapp2.0\ClientConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\alexandra.damaschin\Desktop\IdentityServer\ClientConsoleApp\obj\Debug\netcoreapp2.0\ClientConsoleApp.AssemblyInfoInputs.cache
+C:\Users\alexandra.damaschin\Desktop\IdentityServer\ClientConsoleApp\obj\Debug\netcoreapp2.0\ClientConsoleApp.AssemblyInfo.cs
+C:\Users\alexandra.damaschin\Desktop\IdentityServer\ClientConsoleApp\bin\Debug\netcoreapp2.0\ClientConsoleApp.pdb
+C:\Users\alexandra.damaschin\Desktop\IdentityServer\ClientConsoleApp\obj\Debug\netcoreapp2.0\ClientConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\alexandra.damaschin\Desktop\IdentityServer\ClientConsoleApp\obj\Debug\netcoreapp2.0\ClientConsoleApp.dll
+C:\Users\alexandra.damaschin\Desktop\IdentityServer\ClientConsoleApp\obj\Debug\netcoreapp2.0\ClientConsoleApp.pdb

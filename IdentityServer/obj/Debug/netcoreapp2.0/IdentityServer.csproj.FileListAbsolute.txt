@@ -1,0 +1,11 @@
+C:\Users\alexandra.damaschin\Desktop\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.deps.json
+C:\Users\alexandra.damaschin\Desktop\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.runtimeconfig.json
+C:\Users\alexandra.damaschin\Desktop\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.runtimeconfig.dev.json
+C:\Users\alexandra.damaschin\Desktop\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.dll
+C:\Users\alexandra.damaschin\Desktop\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.csprojResolveAssemblyReference.cache
+C:\Users\alexandra.damaschin\Desktop\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.csproj.CoreCompileInputs.cache
+C:\Users\alexandra.damaschin\Desktop\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.AssemblyInfoInputs.cache
+C:\Users\alexandra.damaschin\Desktop\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.AssemblyInfo.cs
+C:\Users\alexandra.damaschin\Desktop\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.pdb
+C:\Users\alexandra.damaschin\Desktop\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.dll
+C:\Users\alexandra.damaschin\Desktop\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.pdb
